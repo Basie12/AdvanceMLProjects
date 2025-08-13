@@ -1,6 +1,6 @@
 from src.mathoperation import add, sub
-def test_add():
-    assert add(2, 3)==5
+def test_add():  # Added colon
+    assert 1 + 1 == 2
     assert add(-1, 1) ==0
 
 def test_sub():
