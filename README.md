@@ -1,1 +1,1 @@
-## This is Regression, Time Series Projectit
+## This is Regression, Time Series Project
